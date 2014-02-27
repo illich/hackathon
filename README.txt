@@ -1,6 +1,6 @@
 # Data & IoT & Computer Vision & Machine learning hackaton
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 1. Ekonomická data doplněná o počty tweetů o dané firmě
 
@@ -18,14 +18,14 @@ tweet_weighted_happy - totéž, ale pouze tweety s pozitivním sentimentem
 tweet_weighted_sad - a s negativním
 label - label, na který se dá učit (viz níže)
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 2. Tweety
 
 Samotné texty tweetů.
 Formát je datum, label (stejný jako výše), text.
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 3. Ukázkový problém
 
@@ -42,7 +42,7 @@ Můžete zkusit nějaký algoritmus naučit na těchto labelech.
 Nebo si určete jiný label - chcete-li třeba akcii držet hodinu, tak si obdobným způsobem spočtete label
 jako rozdíl ceny za hodinu a současné ceny.
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 4. Výsledek algoritmu a hodnocení
 
@@ -65,7 +65,7 @@ Pokud chcete být důkladnější:
 Pokud je váš algoritmus dobrý, měl by vydělat víc, než "buy-and-hold", tedy postup, kdy akcii koupíte
 na úplném začátku období a prodáte na úplném konci.
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 5. Trénovací a testovací data
 
