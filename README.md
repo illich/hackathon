@@ -1,4 +1,1 @@
-hackathon
-=========
-
-Hackathon - Data
+# Data & IoT & Computer Vision & Machine learning hackaton
